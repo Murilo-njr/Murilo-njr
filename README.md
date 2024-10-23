@@ -2,6 +2,6 @@
 meu nome é Murilo e tenho 15 anos
 - atualmente estou estudando no Tiradentes 
 
-está é minha página do github
+- está é minha página do github
 
-estou estudando pensamento computacional
+- estou estudando pensamento computacional
