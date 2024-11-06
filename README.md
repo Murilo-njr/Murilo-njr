@@ -6,4 +6,4 @@ meu nome é Murilo e tenho 15 anos
 
 - estou estudando pensamento computacional
 
-![](https://tenor.com/pt-BR/view/neymar-neymar-jr-brazil-brazylia-worldcup-gif-27338507)
+![](https://tenor.com/pt-BR/view/neymar-neymar-jr-brazil-brazylia-worldcup-gif)
