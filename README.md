@@ -4,5 +4,6 @@ meu nome é Murilo e tenho 15 anos
 
 - está é minha página do github
 
-- estou estudando pensamento
-- ![](https://media1.tenor.com/m/GIcC8n7ETpkAAAAd/neymar-neymar-jr.gif)
+- estou estudando pensamento computacional
+
+- [](https://media1.tenor.com/m/GIcC8n7ETpkAAAAd/neymar-neymar-jr.gif)
