@@ -6,5 +6,5 @@ meu nome é Murilo e tenho 15 anos
 
 - estou estudando pensamento computacional 
 
-![](https://media1.tenor.com/m/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
+![](https://media.tenor.com/Re6NVozFoJgAAAAi/goblin-clash-royale.gif)
 
